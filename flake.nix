@@ -23,6 +23,9 @@
             poppler-utils
             valgrind
             gdb
+            strace
+            doxygen
+            graphviz
           ];
 
           shellHook = ''
